@@ -11,4 +11,7 @@ Original file is located at
 #write your name
 
 name = "Sajal"
+
+name_s = "Sabelo"
 print (name)
+print(name_s)
